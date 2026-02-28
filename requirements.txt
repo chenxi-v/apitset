@@ -4,3 +4,4 @@ requests
 pyquery
 pycryptodome
 python-multipart
+asgiref
